@@ -1,0 +1,79 @@
+import numpy as np
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
+
+# Assuming you have these variables from your previous work
+# embeddings: NumPy array of shape (num_titles, embedding_dimension)
+# titles: List of competency titles
+
+# Perform K-Means clustering
+num_clusters = 3  # Adjust as needed
+kmeans = KMeans(n_clusters=num_clusters, random_state=0).fit(embeddings)
+labels = kmeans.labels_
+
+# Reduce dimensions for visualization
+pca = PCA(n_components=2)
+reduced_embeddings = pca.fit_transform(embeddings)
+
+# Plot the clusters
+plt.figure(figsize=(10, 7))
+colors = ["red", "green", "blue", "purple", "orange"]
+for i in range(num_clusters):
+    indices = np.where(labels == i)
+    plt.scatter(
+        reduced_embeddings[indices, 0],
+        reduced_embeddings[indices, 1],
+        c=colors[i],
+        label=f"Cluster {i+1}",
+    )
+    for idx in indices[0]:
+        plt.annotate(
+            f"{idx+1}", (reduced_embeddings[idx, 0], reduced_embeddings[idx, 1])
+        )
+
+plt.legend()
+plt.title("Competency Titles Clustered Using Your Embeddings")
+plt.xlabel("PCA Component 1")
+plt.ylabel("PCA Component 2")
+plt.tight_layout()
+plt.show()
+
+# Print clusters with titles
+for i in range(num_clusters):
+    print(f"\nCluster {i+1}:")
+    for idx, title in enumerate(titles):
+        if labels[idx] == i:
+            print(f"{idx+1}. {title}")
+
+
+# Create a DataFrame with titles and cluster labels
+df = pd.DataFrame({"Title": titles, "Cluster": labels})
+
+# Sort the DataFrame by cluster labels
+df_sorted = df.sort_values(by="Cluster").reset_index(drop=True)
+
+# Display the DataFrame
+print(df_sorted)
+
+# Optionally, select examples from each cluster
+examples_per_cluster = 3  # Number of examples to select from each cluster
+example_rows = []
+
+for cluster_num in range(num_clusters):
+    cluster_df = df_sorted[df_sorted["Cluster"] == cluster_num]
+    examples = cluster_df.head(examples_per_cluster)
+    example_rows.append(examples)
+
+# Concatenate examples into a single DataFrame
+examples_df = pd.concat(example_rows).reset_index(drop=True)
+
+# Display the examples DataFrame
+print("\nExamples from each cluster:")
+print(examples_df)
+
+# Export the full table to a CSV file
+df_sorted.to_csv("competencies_by_cluster.csv", index=False)
+
+# Export the examples to a CSV file
+examples_df.to_csv("competency_examples.csv", index=False)

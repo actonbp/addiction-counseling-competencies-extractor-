@@ -1,0 +1,9 @@
+PyMuPDF==1.21.1
+Pillow
+tqdm
+sentence-transformers
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy

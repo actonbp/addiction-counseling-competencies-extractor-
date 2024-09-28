@@ -1,0 +1,1703 @@
+[
+    {
+        "id": 1,
+        "title": "Understand a variety of models and theories of addiction and other problems related to substance use.",
+        "description": "",
+        "knowledge": [
+            "Terms and concepts related to theory, etiology, research, and practice.",
+            "Scientific and theoretical basis of models from medicine, psychology, sociology, religious studies, and other disciplines.",
+            "Criteria and methods for evaluating models and theories.",
+            "Appropriate applications of models.",
+            "How to access addiction-related literature from multiple disciplines."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Openness to information that may differ from personally held views.",
+            "Appreciation of the complexity inherent in understanding addiction.",
+            "Valuing of diverse concepts, models, and theories.",
+            "Willingness to form personal concepts through critical thinking."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Recognize the social, political, economic, and cultural context within which addiction and substance abuse exist, including risk and resiliency factors that characterize individuals and groups and their living environments.",
+        "description": "",
+        "knowledge": [
+            "Basic concepts of social, political, economic, and cultural systems and their impact on drug-taking activity.",
+            "The history of licit and illicit drug use.",
+            "Research reports and other literature identifying risk and resiliency factors for substance use.",
+            "Statistical information regarding the incidence and prevalence of substance use disorders in the general population and major demographic groups."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Recognition of the importance of contextual variables.",
+            "Appreciation for differences between and within cultures."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Describe the behavioral, psychological, physical health, and social effects of psychoactive substances on the person using and significant others.",
+        "description": "",
+        "knowledge": [
+            "Fundamental concepts of pharmacological properties and effects of all psychoactive substances.",
+            "The continuum of drug use, such as initiation, intoxication, harmful use, abuse, dependence, withdrawal, craving, relapse, and recovery.",
+            "Behavioral, psychological, social, and health effects of psychoactive substances.",
+            "The effects of chronic substance use on clients, significant others, and communities within a social, political, cultural, and economic context.",
+            "The varying courses of addiction.",
+            "The relationship between infectious diseases and substance use."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Sensitivity to multiple influences in the developmental course of addiction.",
+            "Interest in scientific research findings."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Recognize the potential for substance use disorders to mimic a variety of medical and mental health conditions and the potential for medical and mental health conditions to coexist with addiction and substance abuse.",
+        "description": "",
+        "knowledge": [
+            "Normal human growth and development.",
+            "Symptoms of substance use disorders that are similar to those of other medical and/or mental health conditions and how these disorders interact.",
+            "The medical and mental health conditions that most commonly exist with addiction and substance use disorders.",
+            "Methods for differentiating substance use disorders from other medical or mental health conditions."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Willingness to reserve judgment until completion of a thorough clinical evaluation.",
+            "Willingness to work with people who might display and/or have mental health conditions.",
+            "Willingness to refer for treating conditions outside ones expertise.",
+            "Appreciation of the contribution of multiple disciplines to the evaluation process."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Describe the philosophies, practices, policies, and outcomes of the most generally accepted and scientifically supported models of treatment, recovery, relapse prevention, and continuing care for addiction and other substance-related problems.",
+        "description": "",
+        "knowledge": [
+            "Generally accepted models, such as but not limited to:",
+            "o pharmacotherapy",
+            "o mutual help and self-help",
+            "o behavioral self-control training",
+            "o mental health",
+            "o self-regulating community",
+            "o psychotherapeutic",
+            "o relapse prevention.",
+            "The philosophy, practices, policies, and outcomes of the most generally accepted therapeutic models.",
+            "Alternative therapeutic models that demonstrate potential."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Acceptance of the validity of a variety of approaches and models.",
+            "Openness to new, evidence-based treatment approaches, including pharmacological interventions."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Recognize the importance of family, social networks, and community systems in the treatment and recovery process.",
+        "description": "",
+        "knowledge": [
+            "The role of family, social networks, and community systems as assets or obstacles in treatment and recovery processes.",
+            "Methods for incorporating family and social dynamics in treatment and recovery processes."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Appreciation for the significance and complementary nature of various systems in facilitating treatment and recovery."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Understand the importance of research and outcome data and their application in clinical practice.",
+        "description": "",
+        "knowledge": [
+            "Research methods in the social and behavioral sciences.",
+            "Sources of research literature relevant to the prevention and treatment of addiction.",
+            "Specific research on epidemiology, etiology, and treatment efficacy.",
+            "Benefits and limitations of research."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Recognition of the importance of scientific research to the delivery of addiction treatment.",
+            "Openness to new information."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Understand the value of an interdisciplinary approach to addiction treatment.",
+        "description": "",
+        "knowledge": [
+            "Roles and contributions of multiple disciplines to treatment efficacy.",
+            "Terms and concepts necessary to communicate effectively across disciplines.",
+            "The importance of communication with other disciplines."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Desire to collaborate.",
+            "Respect for the contribution of multiple disciplines to the recovery process.",
+            "Commitment to professionalism."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Understand the established diagnostic criteria for substance use disorders, and describe treatment modalities and placement criteria within the continuum of care.",
+        "description": "",
+        "knowledge": [
+            "Established diagnostic criteria, including but not limited to current Diagnostic and Statistical Manual of Mental Disorders (DSM) standards and current International Classification of Diseases (ICD) standards.",
+            "Established placement criteria developed by various States and professional organizations.",
+            "Strengths and limitations of various diagnostic and placement criteria.",
+            "Continuum of treatment services and activities."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Openness to a variety of treatment services based on client need.",
+            "Recognition of the value of research findings."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Describe a variety of helping strategies for reducing the negative effects of substance use, abuse, and dependence.",
+        "description": "",
+        "knowledge": [
+            "A variety of helping strategies, including but not limited to:",
+            "o evaluation methods and tools",
+            "o stage-appropriate interventions",
+            "o motivational interviewing",
+            "o involvement of family and significant others",
+            "o mutual-help and self-help programs",
+            "o coerced and voluntary care models",
+            "o brief and longer term interventions."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Openness to various approaches to recovery.",
+            "Appreciation that different approaches work for different people."
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Tailor helping strategies and treatment modalities to the client's stage of dependence, change, or recovery.",
+        "description": "",
+        "knowledge": [
+            "Strategies appropriate to the various stages of dependence, change, and recovery."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Flexibility in choice of treatment modalities.",
+            "Respect for the clients racial, cultural, economic, and sociopolitical backgrounds[1]."
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Provide treatment services appropriate to the personal and cultural identity and language of the client.",
+        "description": "",
+        "knowledge": [
+            "Various cultural norms, values, beliefs, and behaviors.",
+            "Cultural differences in verbal and nonverbal communication.",
+            "Resources to develop individualized treatment plans."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Respect for individual differences within cultures.",
+            "Respect for differences between cultures[2]."
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Adapt practice to the range of treatment settings and modalities.",
+        "description": "",
+        "knowledge": [
+            "The strengths and limitations of available treatment settings and modalities.",
+            "How to access and make referrals to available treatment settings and modalities."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Flexibility and creativity in practice application[3]."
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Be familiar with medical and pharmacological resources in the treatment of substance use disorders.",
+        "description": "",
+        "knowledge": [
+            "Current literature regarding medical and pharmacological interventions.",
+            "Assets and liabilities of medical and pharmacological interventions.",
+            "Health practitioners in the community who are knowledgeable about addiction and addiction treatment.",
+            "The role that medical problems and complications can play in the intervention and treatment of addiction."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Open and flexible with respect to the potential risks and benefits of pharmacotherapies to the treatment and recovery process[4]."
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Understand the variety of insurance and health maintenance options available and the importance of helping clients access those benefits.",
+        "description": "",
+        "knowledge": [
+            "Existing public and private payment plans including treatment orientation and coverage options.",
+            "Methods for gaining access to available payment plans.",
+            "Policies and procedures used by available payment plans.",
+            "Key personnel, roles, and positions within plans used by the client population."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Willingness to cooperate with payment providers.",
+            "Willingness to explore treatment alternatives.",
+            "Interest in promoting the most cost-effective, high-quality care[5]."
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Recognize that crisis may indicate an underlying substance use disorder and may be a window of opportunity for change.",
+        "description": "",
+        "knowledge": [
+            "The features of crisis, which may include but are not limited to:",
+            "o family disruption",
+            "o social and legal consequences",
+            "o physical and psychological panic states",
+            "o physical dysfunction.",
+            "Substance use screening and assessment methods.",
+            "Prevention and intervention principles and methods.",
+            "Principles of crisis case management.",
+            "Posttraumatic stress characteristics.",
+            "Critical incident debriefing methods.",
+            "Available resources for assistance in the management of crisis situations."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Willingness to respond and follow through in crisis situations.",
+            "Willingness to consult when necessary[6]."
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Understand the need for and use of methods for measuring treatment outcome.",
+        "description": "",
+        "knowledge": [
+            "Treatment outcome research literature.",
+            "Scientific process in applied research.",
+            "Appropriate measures of outcome.",
+            "Methods for measuring the multiple variables of treatment outcome."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Recognition of the importance of collecting and reporting on outcome data.",
+            "Interest in integrating research findings into ongoing treatment design[7]."
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Understand diverse cultures, and incorporate the relevant needs of culturally diverse groups, as well as people with disabilities, into clinical practice.",
+        "description": "",
+        "knowledge": [
+            "Information and resources regarding racial and ethnic cultures, lifestyles, gender, and age as well as relevant needs of people with disabilities.",
+            "The unique influence the clients culture, lifestyle, gender, and other relevant factors may have on behavior.",
+            "The relationship between substance use and diverse cultures, values, and lifestyles.",
+            "Assessment and intervention methods that are appropriate to culture and gender.",
+            "Counseling methods relevant to the needs of culturally diverse groups and people with disabilities.",
+            "The Americans with Disabilities Act and other legislation related to human, civil, and clients rights."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Willingness to explore and identify ones own cultural values.",
+            "Acceptance of other cultural values as valid for other individuals[8]."
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Understand the importance of self-awareness in ones personal, professional, and cultural life.",
+        "description": "",
+        "knowledge": [
+            "Personal and professional strengths and limitations.",
+            "Cultural, ethnic, or gender biases."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Openness to constructive supervision.",
+            "Willingness to grow and change personally and professionally"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Understand the addiction professionals obligations to adhere to ethical and behavioral standards of conduct in the helping relationship.",
+        "description": "",
+        "knowledge": [
+            "The features of crisis, which may include but are not limited to:",
+            "o family disruption",
+            "o social and legal consequences",
+            "o physical and psychological panic states",
+            "o physical dysfunction",
+            "Substance use screening and assessment methods.",
+            "Intervention principles and methods.",
+            "Principles of crisis case management.",
+            "Posttraumatic stress characteristics.",
+            "Critical incident debriefing methods.",
+            "Available resources for assistance in the management of crisis situations."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Willingness to conduct oneself in accordance with the highest ethical standards.",
+            "Willingness to comply with regulatory and professional expectations"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Understand the importance of ongoing supervision and continuing education in the delivery of client services.",
+        "description": "",
+        "knowledge": [
+            "Benefits of self-assessment and clinical supervision to professional growth and development.",
+            "The value of consultation to enhance personal and professional growth.",
+            "Resources available for continuing education.",
+            "Supervision principles and methods."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Commitment to continuing professional education.",
+            "Willingness to engage in a supervisory relationship[1]."
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Understand the obligation of the addiction professional to participate in prevention and treatment activities.",
+        "description": "",
+        "knowledge": [
+            "Research-based prevention models and strategies.",
+            "The relationship between prevention and treatment.",
+            "Environmental strategies and prevention campaigns.",
+            "Benefits of working with community coalitions."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Appreciation of the inherent value of prevention.",
+            "Openness to research-based prevention strategies[2]."
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Understand and apply setting-specific policies and procedures for handling crisis or dangerous situations, including safety measures for clients and staff.",
+        "description": "",
+        "knowledge": [
+            "Setting-specific policies and procedures.",
+            "What constitutes a crisis or danger to the client and/or others.",
+            "The range of appropriate responses to a crisis or dangerous situation.",
+            "Universal precautions.",
+            "Legal implications of crisis response.",
+            "Exceptions to confidentiality rules in crisis or dangerous situations."
+        ],
+        "skills": [
+            "Not explicitly listed in the provided text."
+        ],
+        "attitudes": [
+            "Understanding of the potential seriousness of crisis situations.",
+            "Awareness for the need for caution and self-control in the face of crisis or danger.",
+            "Willingness to request help in potentially dangerous situations[3]."
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Establish rapport, including management of a crisis situation and determination of need for additional professional assistance.",
+        "description": "",
+        "knowledge": [
+            "Importance and purpose of rapport building.",
+            "Rapport-building methods and issues.",
+            "The range of human emotions and feelings.",
+            "What constitutes a crisis.",
+            "Steps in crisis prevention and management.",
+            "Situations and conditions for which additional professional assistance may be necessary.",
+            "Available sources of assistance."
+        ],
+        "skills": [
+            "Demonstrating effective verbal and nonverbal communication in establishing rapport.",
+            "Accurately identifying the clients beliefs and frame of reference.",
+            "Reflecting the clients feelings and message.",
+            "Recognizing and defusing volatile or dangerous situations.",
+            "Demonstrating empathy, respect, and genuineness."
+        ],
+        "attitudes": [
+            "Recognition of personal biases, values, and beliefs and their effect on communication and the treatment process.",
+            "Willingness to establish rapport[4]."
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Gather data systematically from the client and other available collateral sources, using screening instruments and other methods that are sensitive to age, developmental level, culture, and gender. At a minimum, data should include current and historic substance use; health, mental health, and substance-related treatment histories; mental and functional statuses; and current social, environmental, and/or economic constraints.",
+        "description": "",
+        "knowledge": [
+            "Validated screening instruments for substance use and mental status, including their purpose, application, and limitations.",
+            "Concepts of reliability and validity as they apply to screening instruments.",
+            "How to interpret the results of screening.",
+            "How to gather and use information from collateral sources.",
+            "How age, developmental level, culture, and gender affect patterns and history of use.",
+            "How age, developmental level, culture, and gender affect communication.",
+            "Client mental statuspresenting features and relationship to substance use disorders and psychiatric conditions.",
+            "How to apply confidentiality rules and regulations."
+        ],
+        "skills": [
+            "Administering and scoring screening instruments.",
+            "Screening for physical and mental health status.",
+            "Facilitating information sharing and data collection from a variety of sources.",
+            "Communicating effectively in emotionally charged situations.",
+            "Writing accurately, concisely, and legibly."
+        ],
+        "attitudes": [
+            "Appreciation of the value of the data-gathering process[5]."
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Screen for psychoactive substance toxicity, intoxication, and withdrawal symptoms; aggression or danger to others; potential for self-inflicted harm or suicide; and co-occurring mental disorders.",
+        "description": "",
+        "knowledge": [
+            "Symptoms of intoxication, withdrawal, and toxicity for all psychoactive substances, alone and in interaction with one another.",
+            "Physical, pharmacological, and psychological implications of psychoactive substance use.",
+            "Effects of chronic psychoactive substance use or intoxication on cognitive abilities.",
+            "Available resources for help with drug reactions, withdrawal, and violent behavior.",
+            "When to refer for toxicity screening or additional professional help.",
+            "Basic concepts of toxicity screening options, limitations, and legal implications.",
+            "Toxicology reporting language and the meaning of toxicology reports.",
+            "Relationship between psychoactive substance use and violence.",
+            "Basic diagnostic criteria for suicide risk, danger to others, withdrawal syndromes, and major psychiatric conditions.",
+            "Mental and physical conditions that mimic drug intoxication, toxicity, and withdrawal.",
+            "Legal requirements concerning suicide and violence potential and mandatory reporting for abuse and neglect."
+        ],
+        "skills": [
+            "Eliciting pertinent information from the client and relevant others.",
+            "Intervening appropriately with a client who may be intoxicated.",
+            "Assessing suicide and/or violence potential using an approved risk-assessment tool.",
+            "Assessing risks of abuse and neglect of children and others.",
+            "Preventing and managing crises in collaboration with health, mental health, and public safety professionals."
+        ],
+        "attitudes": [
+            "Willingness to be respectful toward the client in his or her presenting state.",
+            "Appreciation of the importance of empathy in the face of feelings of anger, hopelessness, or suicidal or violent thoughts and feelings.",
+            "Appreciation of the importance of legal and administrative obligations[6]."
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Assist the client in identifying the effect of substance use on his or her current life problems and the effects of continued harmful use or abuse.",
+        "description": "",
+        "knowledge": [
+            "The progression and characteristics of substance use disorders.",
+            "The effects of psychoactive substances on behavior, thinking, feelings, health status, and relationships.",
+            "Denial and other defense mechanisms in client resistance."
+        ],
+        "skills": [
+            "Establishing a therapeutic relationship.",
+            "Demonstrating effective communication and interviewing skills.",
+            "Determining and confirming with the client the effects of substance use on life problems.",
+            "Assessing client readiness to address substance use issues.",
+            "Interpreting the clients perception of his or her experiences."
+        ],
+        "attitudes": [
+            "Respect for the clients perception of his or her experiences[7]."
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Determine the clients readiness for treatment and change as well as the needs of others involved in the current situation.",
+        "description": "",
+        "knowledge": [
+            "Current validated instruments for assessing readiness to change.",
+            "Treatment options.",
+            "Stages of readiness.",
+            "Stages-of-change models.",
+            "The role of family and significant others in supporting or hindering change."
+        ],
+        "skills": [
+            "Assessing client readiness for treatment.",
+            "Assessing extrinsic and intrinsic motivators.",
+            "Assessing the needs of family members including children for appropriate levels of care and providing support; recommending follow-up services."
+        ],
+        "attitudes": [
+            "Acceptance of non-readiness as a stage of change.",
+            "Appreciation that motivation is not a prerequisite for treatment.",
+            "Recognition of the importance of the client's self-assessment[8]."
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Review the treatment options that are appropriate for the client's needs, characteristics, goals, and financial resources.",
+        "description": "",
+        "knowledge": [
+            "Treatment options and their philosophies and characteristics.",
+            "Relationship among client needs, available treatment options, and other community resources."
+        ],
+        "skills": [
+            "Eliciting and determining relevant client characteristics, needs, and goals.",
+            "Making appropriate recommendations for treatment and use of other available community resources.",
+            "Collaborating with the client to determine the best course of action."
+        ],
+        "attitudes": [
+            "Recognition of one's own treatment biases.",
+            "Appreciation of various treatment approaches.",
+            "Willingness to link client with a variety of helping resources[9]."
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Apply accepted criteria for diagnosis of substance use disorders in making treatment recommendations.",
+        "description": "",
+        "knowledge": [
+            "The continuum of care and the available range of treatment modalities.",
+            "Current Diagnostic and Statistical Manual of Mental Disorders (DSM) or other accepted criteria for substance use disorders, including strengths and limitations of such criteria.",
+            "Use of commonly accepted criteria for client placement into levels of care.",
+            "Multiaxis diagnostic criteria."
+        ],
+        "skills": [
+            "Using current DSM or other accepted diagnostic standards.",
+            "Using appropriate placement criteria.",
+            "Obtaining information necessary to develop a diagnostic impression."
+        ],
+        "attitudes": [
+            "Recognition of personal and professional limitations of practice, based on knowledge and training.",
+            "Willingness to base treatment recommendations on the client's best interest and preferences[10]."
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Construct with the client and appropriate others an initial action plan based on client needs, client preferences, and resources available.",
+        "description": "",
+        "knowledge": [
+            "Appropriate content and format of the initial action plan.",
+            "The client's needs and preferences.",
+            "Available resources for admission or referral."
+        ],
+        "skills": [
+            "Developing the action plan in collaboration with the client and appropriate others.",
+            "Documenting the action plan.",
+            "Contracting with the client concerning the initial action plan."
+        ],
+        "attitudes": [
+            "Willingness to work collaboratively with the client and others[1]."
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Based on the initial action plan, take specific steps to initiate an admission or referral and ensure followthrough.",
+        "description": "",
+        "knowledge": [
+            "Admission and referral protocols.",
+            "Resources for referral.",
+            "Ethical standards regarding referrals.",
+            "Appropriate documentation.",
+            "How to apply confidentiality rules and regulations.",
+            "Clients' rights to privacy."
+        ],
+        "skills": [
+            "Communicating clearly and appropriately.",
+            "Networking and advocating with service providers.",
+            "Negotiating and advocating client admissions to appropriate treatment resources.",
+            "Facilitating client followthrough.",
+            "Documenting accurately and appropriately."
+        ],
+        "attitudes": [
+            "Willingness to renegotiate[2]."
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Select and use a comprehensive assessment process that is sensitive to age, gender, racial and ethnic culture, and disabilities that includes but is not limited to:",
+        "description": "",
+        "knowledge": [
+            "Basic concepts of test validity and reliability.",
+            "Current validated assessment instruments and protocols.",
+            "Appropriate use and limitations of standardized instruments.",
+            "The range of life areas to be assessed in a comprehensive assessment.",
+            "How age, developmental level, cognitive and behavioral functioning, racial and ethnic culture, gender, and disabilities can influence the validity and appropriateness of assessment instruments and interview protocols."
+        ],
+        "skills": [
+            "Selecting and administering appropriate assessment instruments and protocols within the counselors scope of practice.",
+            "Introducing and explaining the purpose of assessment.",
+            "Addressing client perceptions and providing appropriate explanations of issues being discussed.",
+            "Conducting comprehensive assessment interviews and collecting information from collateral sources."
+        ],
+        "attitudes": [
+            "Respect for the limits of assessment instruments and ones ability to interpret them.",
+            "Willingness to refer for additional specialized assessment[3]."
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Analyze and interpret the data to determine treatment recommendations.",
+        "description": "",
+        "knowledge": [
+            "Appropriate scoring methodology for assessment instruments.",
+            "How to analyze and interpret assessment results.",
+            "The range of available treatment options."
+        ],
+        "skills": [
+            "Scoring assessment tools.",
+            "Interpreting data relevant to the client.",
+            "Using results to identify client needs and appropriate treatment options.",
+            "Communicating recommendations to the client and appropriate service providers."
+        ],
+        "attitudes": [
+            "Respect for the value of assessment in determining appropriate treatment plans[4]."
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Seek appropriate supervision and consultation.",
+        "description": "",
+        "knowledge": [
+            "The counselor's role, responsibilities, and scope of practice.",
+            "The limits of the counselor's training and education.",
+            "The supervisor's role and how supervision can contribute to quality assurance and improvement of clinical skills.",
+            "Available consultation services and roles of consultants.",
+            "The multidisciplinary assessment approach."
+        ],
+        "skills": [
+            "Recognizing the need for review by or assistance from a supervisor.",
+            "Recognizing when consultation is appropriate.",
+            "Providing appropriate documentation.",
+            "Communicating oral and written information clearly.",
+            "Incorporating information from supervision and consultation into assessment findings."
+        ],
+        "attitudes": [
+            "Commitment to professionalism.",
+            "Acceptance of one's own personal and professional limitations.",
+            "Willingness to continue learning and improving clinical skills[5]."
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Document assessment findings and treatment recommendations.",
+        "description": "",
+        "knowledge": [
+            "Agency-specific protocols and procedures.",
+            "Appropriate terminology and abbreviations.",
+            "Legal implications of actions and documentation.",
+            "How to apply confidentiality rules and regulations and clients rights to privacy."
+        ],
+        "skills": [
+            "Providing clear, concise, and legible documentation.",
+            "Incorporating information from various sources.",
+            "Preparing and clearly presenting, in oral and written form, assessment findings to the client and other professionals within the bounds of confidentiality rules and regulations."
+        ],
+        "attitudes": [
+            "Recognition of the value of accurate documentation[6]."
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Use relevant assessment information to guide the treatment planning process.",
+        "description": "",
+        "knowledge": [
+            "The role assessment plays in identifying client problems, resources, and barriers to treatment.",
+            "Stages of change and readiness for treatment.",
+            "The impact that the client and family systems have on treatment decisions and outcomes.",
+            "Other sources of assessment information."
+        ],
+        "skills": [
+            "Establishing treatment priorities based on all available assessment data.",
+            "Interpreting assessment information considering the clients age, developmental level, treatment readiness, gender, and racial and ethnic culture.",
+            "Using assessment information to individualize the clients treatment goals."
+        ],
+        "attitudes": [
+            "Appreciation of the strengths and limitations of the assessment data.",
+            "Recognition that assessment is an ongoing process throughout treatment[7]."
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Explain assessment findings to the client and significant others.",
+        "description": "",
+        "knowledge": [
+            "How to apply confidentiality rules and regulations.",
+            "How to communicate assessment data in understandable terms.",
+            "Factors affecting the clients comprehension of assessment data.",
+            "Roles and expectations of significant others involved in treatment."
+        ],
+        "skills": [
+            "Summarizing and synthesizing assessment results.",
+            "Translating assessment information into treatment goals and objectives.",
+            "Evaluating the clients comprehension of assessment feedback.",
+            "Communicating with the client in a manner that is sensitive to the clients age, developmental level, gender, and racial and ethnic culture.",
+            "Communicating assessment findings to interested parties within the bounds of confidentiality rules and regulations and practice standards."
+        ],
+        "attitudes": [
+            "Recognition of how biases influence communication of assessment data and results.",
+            "Recognition of the clients right and need to understand assessment results.",
+            "Respect for the roles of others[8]."
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Provide the client and significant others with clarification and additional information as needed.",
+        "description": "",
+        "knowledge": [
+            "Verbal and nonverbal communication styles.",
+            "Methods to elicit feedback from the client and significant others."
+        ],
+        "skills": [
+            "Eliciting and integrating feedback during the planning process.",
+            "Working collaboratively with the client and significant others.",
+            "Establishing a trusting relationship with the client and significant others."
+        ],
+        "attitudes": [
+            "Willingness to communicate interactively with the client and significant others.",
+            "Openness to client questions and input[9]."
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Examine treatment options in collaboration with the client and significant others.",
+        "description": "",
+        "knowledge": [
+            "Treatment interventions, client placement criteria, and outside referral options.",
+            "Current research findings on various treatment models.",
+            "Alternatives to treatment, including no treatment."
+        ],
+        "skills": [
+            "Presenting the range of treatment options and settings available.",
+            "Using assessment data to make treatment recommendations.",
+            "Considering the clients needs and preferences when selecting treatment settings.",
+            "Using the treatment planning process to foster collaborative relationships with the client and significant others."
+        ],
+        "attitudes": [
+            "Willingness to negotiate treatment options with the client.",
+            "Openness to a variety of approaches.",
+            "Respect for the input of the client and significant others"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Consider the readiness of the client and significant others to participate in treatment.",
+        "description": "",
+        "knowledge": [
+            "Stages-of-change process.",
+            "Methods of tailoring treatment strategies to match the client's motivational level."
+        ],
+        "skills": [
+            "Assessing the client's stage of change.",
+            "Developing strategies to address ambivalence.",
+            "Eliciting the client's preferences.",
+            "Promoting the client's readiness to engage in treatment."
+        ],
+        "attitudes": [
+            "Respect for the client's values, goals, and readiness to change.",
+            "Recognition and acceptance of behavioral change as a multistep process[1]."
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Prioritize the client's needs in the order they will be addressed in treatment.",
+        "description": "",
+        "knowledge": [
+            "Treatment sequencing and the continuum of care.",
+            "Hierarchy-of-needs models.",
+            "Holistic view of the client's biological, psychological, social, and spiritual needs and resources."
+        ],
+        "skills": [
+            "Accessing referral resources necessary to address the client's needs.",
+            "Using clinical judgment in prioritizing client problems.",
+            "Assessing severity of client problems and prioritizing appropriately."
+        ],
+        "attitudes": [
+            "Recognition and acceptance of the client as an active participant in prioritizing needs.",
+            "Willingness to make referrals to address the client's needs[2]."
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Formulate mutually agreed-on and measurable treatment goals and objectives.",
+        "description": "",
+        "knowledge": [
+            "Use of goals and objectives to individualize treatment planning.",
+            "Treatment needs of diverse populations.",
+            "How to write specific and measurable goal and objective statements."
+        ],
+        "skills": [
+            "Translating assessment information into measurable treatment goal and objective statements.",
+            "Collaborating with the client to develop specific, measurable, and realistic goals and objectives.",
+            "Engaging, contracting, and negotiating mutually agreeable goals with the client.",
+            "Writing goal and objective statements in terms understandable to the client and significant others."
+        ],
+        "attitudes": [
+            "Respect for the clients choice of treatment goals.",
+            "Respect for the clients individual pace toward achieving goals.",
+            "Acceptance of the clients readiness to change.",
+            "Appreciation for incremental achievements in completing goals[3]."
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Identify appropriate strategies for each treatment goal.",
+        "description": "",
+        "knowledge": [
+            "Intervention strategies, onsite services, and outside referral options.",
+            "Clients interest in various treatment service options.",
+            "Treatment strategies sensitive to diverse populations."
+        ],
+        "skills": [
+            "Matching interventions to the clients needs and resources.",
+            "Explaining strategies in terms understandable to the client and significant others.",
+            "Identifying and making referrals to outside resources."
+        ],
+        "attitudes": [
+            "Recognition that client retention improves when services are matched to the clients needs and resources.",
+            "Appreciation for various treatment strategies[4]."
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Coordinate treatment activities and community resources in a manner consistent with the clients diagnosis and existing placement criteria.",
+        "description": "",
+        "knowledge": [
+            "Treatment strategies and community resources.",
+            "Contributions of other professionals and mutual- or self-help support groups.",
+            "Levels of care and existing placement criteria.",
+            "The importance of the clients age, developmental and educational level, gender, and racial and ethnic culture in coordinating resources."
+        ],
+        "skills": [
+            "Coordinating treatment activities and resources consistent with the clients needs and preferences.",
+            "Communicating to the client and significant others the rationale behind treatment recommendations."
+        ],
+        "attitudes": [
+            "Acceptance of a variety of treatment recommendations.",
+            "Recognition of the importance of coordinating treatment activities[5]."
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Develop with the client a mutually acceptable treatment plan and method for monitoring and evaluating progress.",
+        "description": "",
+        "knowledge": [
+            "The relationship among problem statements, treatment goals, objectives, and intervention strategies.",
+            "Short- and long-term treatment planning.",
+            "Methods for evaluating treatment progress."
+        ],
+        "skills": [
+            "Individualizing treatment plans that balance strengths and resources with problems and deficits.",
+            "Negotiating and contracting a mutually agreeable plan.",
+            "Writing a plan using positive, jargon-free, and proactive terms.",
+            "Establishing criteria to evaluate progress."
+        ],
+        "attitudes": [
+            "Sensitivity to the client's age, developmental and educational level, gender, and racial and ethnic culture.",
+            "Appreciation for measurable criteria of client progress.",
+            "Willingness to negotiate a plan[6]."
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Inform the client of confidentiality rights, program procedures that safeguard them, and the exceptions imposed by regulations.",
+        "description": "",
+        "knowledge": [
+            "Federal, State, and agency confidentiality rules and regulations, requirements, and policies.",
+            "Resources for legal consultation."
+        ],
+        "skills": [
+            "Communicating the roles of various interested parties and support systems.",
+            "Explaining clients rights and responsibilities and applicable confidentiality rules and regulations.",
+            "Responding to questions and providing clarification as needed.",
+            "Referring to appropriate legal authority."
+        ],
+        "attitudes": [
+            "Respect for clients confidentiality rights.",
+            "Commitment to professionalism.",
+            "Recognition of the importance of professional collaboration within the bounds of confidentiality[7]."
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Reassess the treatment plan at regular intervals or when indicated by changing circumstances.",
+        "description": "",
+        "knowledge": [
+            "How to evaluate the client's response to treatment.",
+            "When and how to revise the treatment plan."
+        ],
+        "skills": [
+            "Assessing the clients response to treatment.",
+            "Modifying the treatment plan based on review of the clients response to treatment and/or changing circumstances.",
+            "Negotiating changes to the plan with the client and significant others."
+        ],
+        "attitudes": [
+            "Recognition of the value of client input in revising the treatment plan.",
+            "Openness to critically examine ones work.",
+            "Respect for the input of the client and significant others.",
+            "Willingness to learn from clinical supervision and modify practice accordingly[8]."
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Establish and maintain relationships with civic groups, agencies, other professionals, governmental entities, and the community at large to ensure appropriate referrals, identify service gaps, expand community resources, and help address unmet needs.",
+        "description": "",
+        "knowledge": [
+            "The mission, function, resources, and quality of services offered by such entities as the following:",
+            "o civic groups, community groups, and neighborhood organizations",
+            "o health and allied healthcare systems (managed care)",
+            "o employment and vocational rehabilitation services",
+            "o cultural enhancement organizations",
+            "o faith-based organizations",
+            "o governmental entities",
+            "o criminal justice systems",
+            "o child welfare agencies",
+            "o housing administrations",
+            "o childcare facilities",
+            "o crisis intervention programs",
+            "o abused persons programs",
+            "o mutual- and self-help groups",
+            "o advocacy groups",
+            "o other agencies.",
+            "Community demographics.",
+            "Community political and cultural systems.",
+            "Criteria for receiving community services, including fee and funding structures.",
+            "How to access community agencies and service providers.",
+            "State and Federal legislative mandates and regulations.",
+            "Confidentiality rules and regulations.",
+            "Service gaps and appropriate ways of advocating for new resources.",
+            "Effective communication styles.",
+            "Community resources for both affected children and other household members."
+        ],
+        "skills": [
+            "Networking and communicating.",
+            "Using existing community resource directories including computer databases.",
+            "Advocating for the client.",
+            "Working with others as part of a team."
+        ],
+        "attitudes": [
+            "Respect for interdisciplinary service delivery.",
+            "Respect for both the clients needs and agency services.",
+            "Respect for collaboration and cooperation.",
+            "Appreciation of strengths-based principles that emphasize client autonomy and skills development[9]."
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Continuously assess and evaluate referral resources to determine their appropriateness.",
+        "description": "",
+        "knowledge": [
+            "The needs of the client population being served.",
+            "How to access current information on the function, mission, and resources of community service providers.",
+            "How to access current information on referral criteria and accreditation status of community service providers.",
+            "How to access client satisfaction data about community service providers."
+        ],
+        "skills": [
+            "Establishing and nurturing collaborative relationships with key contacts in community service organizations.",
+            "Interpreting and using evaluation and client feedback data.",
+            "Giving feedback to community resources regarding their service delivery."
+        ],
+        "attitudes": [
+            "Respect for confidentiality rules and regulations.",
+            "Willingness to advocate on behalf of the client"
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Differentiate between situations in which it is most appropriate for the client to self-refer to a resource and situations requiring counselor referral.",
+        "description": "",
+        "knowledge": [
+            "Client motivation and ability to initiate and follow through with referrals.",
+            "Factors in determining the optimal time to engage the client in the referral process.",
+            "Clinical assessment methods.",
+            "Empowerment techniques.",
+            "Crisis prevention and intervention methods."
+        ],
+        "skills": [
+            "Interpreting assessment and treatment planning materials to determine appropriateness of client or counselor referral.",
+            "Assessing the clients readiness to participate in the referral process.",
+            "Educating the client about appropriate referral processes.",
+            "Motivating the client to take responsibility for referral and followup.",
+            "Applying crisis prevention and intervention techniques."
+        ],
+        "attitudes": [
+            "Respect for the clients ability to initiate and follow up with referral.",
+            "Willingness to share decisionmaking power with the client.",
+            "Respect for the goal of positive self-determination.",
+            "Recognition of the counselors responsibility to engage in client advocacy when needed[1]."
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Arrange referrals to other professionals, agencies, community programs, or appropriate resources to meet the clients needs.",
+        "description": "",
+        "knowledge": [
+            "Comprehensive treatment planning.",
+            "Methods of assessing the clients progress toward treatment goals.",
+            "How to tailor resources to the clients treatment needs.",
+            "How to access key resource persons in the community service provider network.",
+            "Mission, function, and resources of appropriate community service providers.",
+            "Referral protocols of selected service providers.",
+            "Logistics necessary for client access and follow-through with referrals.",
+            "Applicable confidentiality rules and regulations and protocols.",
+            "Factors to consider when determining the appropriate time to engage a client in the referral process."
+        ],
+        "skills": [
+            "Using oral and written communication for successful referrals.",
+            "Using appropriate technology to access, collect, and forward necessary documentation.",
+            "Conforming to all applicable confidentiality rules and regulations and protocols.",
+            "Documenting the referral process accurately.",
+            "Maintaining and nurturing relationships with key contacts in the community.",
+            "Implementing follow-up activities with the client."
+        ],
+        "attitudes": [
+            "Respect for the client and the clients needs and privacy rights.",
+            "Respect for collaboration and cooperation.",
+            "Respect for interdisciplinary, comprehensive approaches to meet the clients needs[2]."
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Explain in clear and specific language the necessity for and process of referral to increase the likelihood of client understanding and followthrough.",
+        "description": "",
+        "knowledge": [
+            "How treatment planning and referral relate to the goals of recovery.",
+            "How the clients defenses, abilities, personal preferences, cultural influences, personal resources, presentation, and appearance affect referral and followthrough.",
+            "Comprehensive referral information and protocols.",
+            "Terminology and structure used in referral settings."
+        ],
+        "skills": [
+            "Using language and terms the client easily understands.",
+            "Interpreting the treatment plan and how referral relates to progress.",
+            "Engaging in effective communication about the referral process: negotiating, educating, personalizing risks and benefits, and contracting."
+        ],
+        "attitudes": [
+            "Awareness of personal biases toward referral resources[3]."
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Exchange relevant information with the agency or professional to whom the referral is being made in a manner consistent with confidentiality rules and regulations and generally accepted professional standards of care.",
+        "description": "",
+        "knowledge": [
+            "Mission, function, and resources of the referral agency or professional.",
+            "Protocols and documentation necessary to make the referral.",
+            "Pertinent local, State, and Federal confidentiality rules and regulations; applicable clients rights and responsibilities; client consent procedures; and other guiding principles for exchange of relevant information.",
+            "Ethical standards of practice related to this exchange of information."
+        ],
+        "skills": [
+            "Using oral and written communication for successful referrals.",
+            "Using appropriate technology to access, collect, and forward relevant information needed by the agency or professional.",
+            "Obtaining informed client consent and documentation needed for the exchange of relevant information.",
+            "Reporting relevant information accurately and objectively."
+        ],
+        "attitudes": [
+            "Commitment to professionalism.",
+            "Respect for the importance of confidentiality rules and regulations and professional standards.",
+            "Appreciation for the need to exchange relevant information with other professionals[4]."
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Evaluate the outcome of the referral.",
+        "description": "",
+        "knowledge": [
+            "Methods of assessing the clients progress toward treatment goals.",
+            "Appropriate sources and techniques for evaluating referral outcomes."
+        ],
+        "skills": [
+            "Using appropriate measurement processes and instruments.",
+            "Collecting objective and subjective data on the referral process."
+        ],
+        "attitudes": [
+            "Appreciation for the value of the evaluation process.",
+            "Appreciation for the value of interagency collaboration.",
+            "Appreciation for the value of interdisciplinary referral[5]."
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Initiate collaboration with the referral source.",
+        "description": "",
+        "knowledge": [
+            "How to access and transmit information necessary for referral.",
+            "Missions, functions, and resources of the community service network.",
+            "Managed care and other systems affecting the client.",
+            "Eligibility criteria for referral to community service providers.",
+            "Appropriate confidentiality rules and regulations.",
+            "Terminologies appropriate to the referral source."
+        ],
+        "skills": [
+            "Using appropriate technology to access, collect, summarize, and transmit referral data about the client.",
+            "Communicating respect and empathy for cultural and lifestyle differences.",
+            "Demonstrating appropriate oral and written communication.",
+            "Establishing trust and rapport with colleagues in the community.",
+            "Assessing the level and intensity of client care needed.",
+            "Being aware of the need to consult with professionals in other disciplines and specialties."
+        ],
+        "attitudes": [
+            "Respect for contributions and needs of multiple disciplines to the treatment process.",
+            "Confidence in using diverse systems and treatment approaches.",
+            "Openmindedness to a variety of treatment approaches.",
+            "Willingness to modify or adapt plans[6]."
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Obtain, review, and interpret all relevant screening, assessment, and initial treatment planning information.",
+        "description": "",
+        "knowledge": [
+            "Methods for obtaining relevant screening, assessment, and initial treatment planning information.",
+            "How to interpret information for service coordination.",
+            "Theories, concepts, and philosophies of screening and assessment tools.",
+            "How to define long- and short-term goals of treatment.",
+            "Biopsychosocial assessment methods."
+        ],
+        "skills": [
+            "Using accurate, clear, and concise oral and written communication.",
+            "Interpreting, prioritizing, and using client information.",
+            "Soliciting comprehensive and accurate information from numerous sources, including the client.",
+            "Using appropriate technology to document appropriate information."
+        ],
+        "attitudes": [
+            "Appreciation for all sources and types of data and their possible treatment implications.",
+            "Awareness of personal biases that may affect work with the client.",
+            "Respect for the clients self-assessment and reporting[7]."
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Confirm the clients eligibility for admission and continued readiness for treatment and change.",
+        "description": "",
+        "knowledge": [
+            "Philosophies, policies, procedures, and admission protocols for community agencies.",
+            "Eligibility criteria for referral to community service providers.",
+            "Principles for tailoring treatment to client needs.",
+            "Methods of assessing and documenting client change over time.",
+            "Federal and State confidentiality rules and regulations and clients' privacy rights."
+        ],
+        "skills": [
+            "Working with the client to select the most appropriate treatment.",
+            "Accessing available funding resources.",
+            "Using effective communication styles.",
+            "Recognizing, documenting, and communicating client change.",
+            "Involving family and significant others in the treatment planning process.",
+            "Effectively interviewing and communicating with clients who have cognitive or psychiatric impairments.",
+            "Accurately describing the client's signs and symptoms of cognitive or psychiatric impairment when consulting with medical and mental health professionals."
+        ],
+        "attitudes": [
+            "Recognition of the importance of continued support, encouragement, and optimism.",
+            "Willingness to accept the limitations of treatment.",
+            "Appreciation for the goal of self-determination.",
+            "Recognition of the importance of family and significant others to treatment planning.",
+            "Appreciation for the need for continuing assessment and modifications to the treatment plan[8]."
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Complete necessary administrative procedures for admission to treatment.",
+        "description": "",
+        "knowledge": [
+            "Admission criteria and protocols.",
+            "Documentation requirements and confidentiality rules and regulations.",
+            "Appropriate Federal, State, and local regulations related to admission.",
+            "Funding mechanisms, reimbursement protocols, and required documentation.",
+            "Protocols required by managed care organizations."
+        ],
+        "skills": [
+            "Demonstrating accurate, clear, and concise oral and written communication.",
+            "Using language the client easily understands.",
+            "Negotiating with diverse treatment systems.",
+            "Advocating for services for the client."
+        ],
+        "attitudes": [
+            "Acceptance of the necessity to deal with bureaucratic systems.",
+            "Recognition of the importance of collaboration.",
+            "Appreciation of strengths-based principles that emphasize client autonomy and skills development[9]."
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Establish accurate treatment and recovery expectations with the client and involved significant others, including but not limited to:",
+        "description": "",
+        "knowledge": [
+            "Functions and resources provided by treatment services and managed care systems.",
+            "Available community services.",
+            "Effective communication styles.",
+            "Clients rights and responsibilities.",
+            "Treatment schedule, timeframes, admission and discharge criteria, and costs.",
+            "Rules and regulations of the treatment program.",
+            "Roles and limitations of significant others in treatment.",
+            "How to apply confidentiality rules and regulations and clients privacy rights."
+        ],
+        "skills": [
+            "Demonstrating clear and concise oral and written communication.",
+            "Establishing appropriate boundaries with the client and significant others."
+        ],
+        "attitudes": [
+            "Respect for the input of the client and significant others[10]``[11].",
+            "These competencies have been extracted from the provided text and organized according to the requested format."
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Coordinate all treatment activities with services provided to the client by other resources.",
+        "description": "",
+        "knowledge": [
+            "Methods for determining the clients progress in achieving treatment goals and objectives.",
+            "Documentation and reporting methods used by community agencies.",
+            "Service reimbursement issues and their effect on the treatment plan.",
+            "Case presentation techniques and protocols.",
+            "Applicable confidentiality rules and regulations.",
+            "Terminology and methods used by community agencies."
+        ],
+        "skills": [
+            "Delivering case presentations.",
+            "Using appropriate technology to collect and interpret client treatment information from diverse sources.",
+            "Demonstrating accurate, clear, and concise oral and written communication.",
+            "Participating in interdisciplinary team building.",
+            "Participating in negotiation, advocacy, conflict resolution, problem-solving, and mediation."
+        ],
+        "attitudes": [
+            "Willingness to collaborate with community agencies and service providers[1]."
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Summarize the client's personal and cultural background, treatment plan, recovery progress, and problems inhibiting progress to ensure quality of care, gain feedback, and plan changes in the course of treatment.",
+        "description": "",
+        "knowledge": [
+            "Methods for assessing the clients past and present biopsychosocial status.",
+            "Methods for assessing social systems that may affect the clients progress in treatment.",
+            "Methods for continuous assessment and modification of the treatment plan.",
+            "Methods for assessing progress toward treatment goals."
+        ],
+        "skills": [
+            "Demonstrating clear and concise oral and written communication.",
+            "Synthesizing information and developing modified treatment goals and objectives.",
+            "Soliciting and interpreting feedback related to the treatment plan.",
+            "Prioritizing and documenting relevant client data.",
+            "Observing and identifying problems that might impede progress.",
+            "Soliciting client satisfaction feedback."
+        ],
+        "attitudes": [
+            "Respect for the personal nature of the information shared by the client and significant others.",
+            "Respect for interdisciplinary work.",
+            "Appreciation for incremental progress in completing treatment goals.",
+            "Recognition of relapse as an opportunity for positive change[2]."
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Understand the terminology, procedures, and roles of other disciplines related to the treatment of substance use disorders.",
+        "description": "",
+        "knowledge": [
+            "Functions and unique terminology of related disciplines."
+        ],
+        "skills": [
+            "Demonstrating accurate, clear, and concise oral and written communication.",
+            "Participating in interdisciplinary collaboration.",
+            "Interpreting oral and written data from various sources."
+        ],
+        "attitudes": [
+            "Confidence in asking questions and providing information across disciplines[3]."
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Contribute as part of a multidisciplinary treatment team.",
+        "description": "",
+        "knowledge": [
+            "Roles, responsibilities, and areas of expertise of other team members and professional disciplines.",
+            "Confidentiality rules and regulations.",
+            "Team dynamics and group process."
+        ],
+        "skills": [
+            "Demonstrating clear and concise oral and written communication.",
+            "Participating in problem-solving, decision-making, mediation, and advocacy.",
+            "Communicating about confidentiality issues.",
+            "Coordinating the clients treatment with representatives of multiple disciplines and external systems.",
+            "Participating in team building and group process."
+        ],
+        "attitudes": [
+            "Interest in cooperation and collaboration with diverse service providers.",
+            "Respect and appreciation for other team members and their professional disciplines.",
+            "Recognition of the need to consult with professionals in other disciplines and specialties[4]."
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Apply confidentiality rules and regulations appropriately.",
+        "description": "",
+        "knowledge": [
+            "Federal, State, and local confidentiality rules and regulations, especially as they apply to substance abuse treatment, health care, mental health care, child welfare, and criminal justice.",
+            "How to apply confidentiality rules and regulations to documentation and sharing of client information.",
+            "Ethical standards related to confidentiality rules and regulations.",
+            "Clients rights and responsibilities.",
+            "How to apply confidentiality rules and regulations in emergency situations (medical/suicide prevention/mandatory reports of child abuse or neglect situations)."
+        ],
+        "skills": [
+            "Explaining and applying confidentiality rules and regulations.",
+            "Obtaining informed consent.",
+            "Communicating with the client, family and significant others, and other service providers within the boundaries of existing confidentiality rules and regulations.",
+            "Communicating the need for client referral information in emergency situations and documenting these encounters."
+        ],
+        "attitudes": [
+            "Recognition of the importance of confidentiality rules and regulations.",
+            "Respect for a clients right to privacy.",
+            "Recognition of the need to seek support or supervision in client health and safety emergency situations[5]."
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Demonstrate respect and nonjudgmental attitudes toward clients in all contacts with community professionals and agencies.",
+        "description": "",
+        "knowledge": [
+            "Behaviors appropriate to professional collaboration.",
+            "Clients rights and responsibilities."
+        ],
+        "skills": [
+            "Establishing and maintaining nonjudgmental, respectful relationships with clients and service providers.",
+            "Demonstrating clear, concise, accurate communication with other professionals or agencies.",
+            "Applying confidentiality rules and regulations when communicating with agencies.",
+            "Transferring client information to other service providers in a professional manner.",
+            "Advocating with outside systems."
+        ],
+        "attitudes": [
+            "Willingness to advocate on behalf of the client.",
+            "Professional concern for the client.",
+            "Commitment to professionalism[6]."
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Maintain ongoing contact with the client and involved significant others to ensure adherence to the treatment plan.",
+        "description": "",
+        "knowledge": [
+            "Social, cultural, and family systems.",
+            "Techniques to engage the client in treatment process.",
+            "Outreach, follow-up, and continuing care techniques.",
+            "Methods for determining the client's goals, treatment plan, and motivational level.",
+            "Assessment mechanisms to measure the client's progress toward treatment objectives."
+        ],
+        "skills": [
+            "Engaging the client, family, and significant others in the ongoing treatment process.",
+            "Assessing client progress toward treatment goals.",
+            "Helping the client maintain motivation to change.",
+            "Assessing the comprehension level of the client, family, and significant others.",
+            "Documenting the client's adherence to the treatment plan.",
+            "Recognizing and addressing ambivalence and resistance.",
+            "Implementing follow-up and continuing care protocols."
+        ],
+        "attitudes": [
+            "Respect for client's efforts to achieve treatment goals.",
+            "Appreciation for incremental progress in completing treatment goals.",
+            "Respect for client's choice of treatment goals.",
+            "Professional concern for the client, the family, and significant others.",
+            "Recognition of the importance of continued support, encouragement, and optimism.",
+            "Recognition of relapse as an opportunity for positive change.",
+            "Appreciation of strengths-based principles that emphasize client autonomy and skills development[7]."
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Understand and recognize stages of change and other signs of treatment progress.",
+        "description": "",
+        "knowledge": [
+            "How to recognize incremental progress toward treatment goals.",
+            "The client's cultural norms, biases, unique characteristics, and preferences for treatment.",
+            "Generally accepted treatment outcome measures.",
+            "Methods for evaluating treatment progress.",
+            "Methods for assessing the client's motivation and adherence to treatment plans.",
+            "Theories and principles of the stages of change and recovery."
+        ],
+        "skills": [
+            "Identifying and documenting change.",
+            "Assessing adherence to treatment plans.",
+            "Applying treatment outcome measures.",
+            "Communicating with people of other cultures.",
+            "Reinforcing positive change."
+        ],
+        "attitudes": [
+            "Appreciation for cultural issues that affect treatment progress.",
+            "Respect for individual differences and readiness to change.",
+            "Recognition of the importance of continued support, encouragement, and optimism[8]."
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Assess treatment and recovery progress, and, in consultation with the client and significant others, make appropriate changes to the treatment plan to ensure progress toward treatment goals.",
+        "description": "",
+        "knowledge": [
+            "Continuum of care.",
+            "Interviewing techniques.",
+            "Stages in the treatment and recovery processes.",
+            "Individual differences in the recovery process.",
+            "Methods for evaluating treatment progress.",
+            "Methods for reinvolving the client in the treatment planning process."
+        ],
+        "skills": [
+            "Participating in conflict resolution, problem-solving, and mediation.",
+            "Observing, recognizing, assessing, and documenting client progress.",
+            "Eliciting the clients perspectives on progress.",
+            "Demonstrating clear and concise oral and written communication.",
+            "Interviewing individuals, groups, and families.",
+            "Acquiring and prioritizing relevant treatment information.",
+            "Assisting the client in maintaining motivation.",
+            "Maintaining contact with the client, referral sources, and significant others."
+        ],
+        "attitudes": [
+            "Willingness to be flexible.",
+            "Respect for the clients right to self-determination.",
+            "Appreciation of the role significant others play in the recovery process.",
+            "Appreciation of individual differences in the recovery process[9]."
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Describe and document the treatment process, progress, and outcome.",
+        "description": "",
+        "knowledge": [
+            "Treatment modalities.",
+            "Documentation of process, progress, and outcome.",
+            "Factors affecting the clients success in treatment.",
+            "Generally accepted outcome measures.",
+            "Treatment planning."
+        ],
+        "skills": [
+            "Demonstrating clear and concise oral and written communication.",
+            "Observing and assessing client progress.",
+            "Engaging the client in the treatment process.",
+            "Applying progress and outcome measures."
+        ],
+        "attitudes": [
+            "Appreciation of the importance of accurate documentation.",
+            "Recognition of the importance of multidisciplinary treatment planning"
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Use accepted treatment outcome measures.",
+        "description": "",
+        "knowledge": [
+            "Treatment outcome measures.",
+            "Concepts of validity and reliability of outcome measures."
+        ],
+        "skills": [
+            "Using outcome measures in the treatment planning process."
+        ],
+        "attitudes": [
+            "Appreciation of the need to measure outcomes"
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Conduct continuing care, relapse prevention, and discharge planning with the client and involved significant others.",
+        "description": "",
+        "knowledge": [
+            "Treatment planning process.",
+            "Continuum of care.",
+            "Social and family systems available for continuing care.",
+            "Community resources available for continuing care.",
+            "Signs and symptoms of relapse.",
+            "Relapse prevention strategies.",
+            "Family and social systems theories.",
+            "Discharge planning process.",
+            "Confidentiality rules and regulations."
+        ],
+        "skills": [
+            "Accessing information from referral sources.",
+            "Demonstrating clear and concise oral and written communication.",
+            "Assessing and documenting treatment progress.",
+            "Participating in confrontation, conflict resolution, and problem-solving.",
+            "Collaborating with referral sources.",
+            "Engaging the client and significant others in the treatment process and continuing care.",
+            "Assisting the client in developing a relapse prevention plan."
+        ],
+        "attitudes": [
+            "Recognition of the importance of continued support, encouragement, and optimism.",
+            "Appreciation of strengths-based principles that emphasize client autonomy and skills development"
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Document service coordination activities throughout the continuum of care.",
+        "description": "",
+        "knowledge": [
+            "Documentation requirements, including but not limited to:",
+            "o addiction counseling",
+            "o other disciplines",
+            "o funding sources",
+            "o agencies and service providers",
+            "Service coordination role in the treatment process."
+        ],
+        "skills": [
+            "Demonstrating clear and concise written communication.",
+            "Using appropriate technology to report information in an accurate and timely manner within the bounds of confidentiality rules and regulations."
+        ],
+        "attitudes": [
+            "Acceptance of documentation as an integral part of the treatment process.",
+            "Willingness to use appropriate technology[4]``[5]."
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Apply placement, continued stay, and discharge criteria for each modality on the continuum of care.",
+        "description": "",
+        "knowledge": [
+            "Treatment planning along the continuum of care.",
+            "Initial and ongoing placement criteria.",
+            "Methods to assess current and ongoing client status.",
+            "Stages of progress associated with treatment modalities.",
+            "Appropriate discharge indicators.",
+            "Managed care continuing care criteria and utilization review procedures."
+        ],
+        "skills": [
+            "Observing and assessing client progress.",
+            "Demonstrating clear and concise oral and written communication.",
+            "Participating in conflict resolution, problem-solving, mediation, and negotiation.",
+            "Tailoring treatment to meet client needs.",
+            "Applying placement, continued stay, and discharge criteria."
+        ],
+        "attitudes": [
+            "Confidence in the client's ability to progress within a continuum of care.",
+            "Appreciation for the fair and objective use of placement, continued stay, and discharge criteria"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Establish a helping relationship with the client characterized by warmth, respect, genuineness, concreteness, and empathy.",
+        "description": "",
+        "knowledge": [
+            "Theories, research, and evidence-based literature.",
+            "Approaches to counseling that are person-centered and have demonstrated effectiveness with substance use disorders.",
+            "Definitions of warmth, respect, genuineness, concreteness, and empathy.",
+            "The role of the counselor.",
+            "Transference and countertransference."
+        ],
+        "skills": [
+            "Active listening, including paraphrasing, reflecting, and summarizing.",
+            "Conveying warmth, respect, and genuineness in a culturally appropriate manner.",
+            "Validating.",
+            "Demonstrating empathic understanding.",
+            "Using power and authority appropriately in support of treatment goals."
+        ],
+        "attitudes": [
+            "Respect for the client.",
+            "Recognition of the importance of cooperation and collaboration with the client.",
+            "Professional objectivity[8]``[9]."
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Facilitate the clients engagement in the treatment and recovery process.",
+        "description": "",
+        "knowledge": [
+            "Theory and research related to client motivation.",
+            "Alternative theories and methods for motivating the client in a culturally appropriate manner.",
+            "Theory, research, and evidence-based literature.",
+            "Counseling strategies that promote and support successful client engagement.",
+            "Stages-of-change models used in engagement and treatment strategies."
+        ],
+        "skills": [
+            "Implementing appropriate engagement and interviewing approaches.",
+            "Assessing the clients readiness for change.",
+            "Using culturally appropriate counseling strategies.",
+            "Assessing the clients responses to therapeutic interventions."
+        ],
+        "attitudes": [
+            "Respect for the clients frame of reference and context[10]."
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Work with the client to establish realistic, achievable goals consistent with achieving and maintaining recovery.",
+        "description": "",
+        "knowledge": [
+            "Assessment and treatment planning.",
+            "Stages of change and recovery.",
+            "Strategies to support recovery."
+        ],
+        "skills": [
+            "Formulating and documenting concise, descriptive, and measurable treatment outcome statements.",
+            "Facilitating the clients ability to determine goals and formulate action plans.",
+            "Knowing ones limitations with respect to the therapeutic relationship."
+        ],
+        "attitudes": [
+            "Appreciation for the clients resources and preferences.",
+            "Appreciation for individual differences in the treatment and recovery process[11]."
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Promote client knowledge, skills, and attitudes that contribute to a positive change in substance use behaviors.",
+        "description": "",
+        "knowledge": [
+            "Information, skills, and attitudes consistent with recovery.",
+            "The clients goals, treatment plan, prognosis, and motivational level.",
+            "Stages-of-change model.",
+            "Assessment methods to measure progress in achieving treatment goals and objectives."
+        ],
+        "skills": [
+            "Implementing motivational techniques.",
+            "Recognizing the clients strengths.",
+            "Assessing and providing feedback on client progress toward treatment goals.",
+            "Assessing life and basic skills and comprehension levels of the client and all significant others involved in the treatment planning process.",
+            "Identifying and documenting change.",
+            "Coaching, mentoring, teaching, and validating.",
+            "Recognizing and addressing ambivalence and resistance."
+        ],
+        "attitudes": [
+            "Genuine care and concern for the client, family, and significant others.",
+            "Appreciation for incremental progress in completing treatment goals.",
+            "Appreciation of strengths-based principles that emphasize client autonomy and skills development[12]."
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Encourage and reinforce client actions determined to be beneficial in progressing toward treatment goals.",
+        "description": "",
+        "knowledge": [
+            "Counseling theory, treatment, and practice literature as it applies to substance use disorders.",
+            "Relapse prevention theory, practice, and outcome literature.",
+            "Behaviors and cognition consistent with the development, maintenance, and attainment of treatment goals.",
+            "Counseling treatment methods that support positive client behaviors consistent with recovery."
+        ],
+        "skills": [
+            "Using behavioral and cognitive methods and other interventions that reinforce positive client behaviors.",
+            "Using objective observation and documentation.",
+            "Assessing and reassessing client behaviors."
+        ],
+        "attitudes": [
+            "Recognition of the importance of continued support, encouragement, and optimism.",
+            "Appreciation of strengths-based principles that emphasize client autonomy and skills development.",
+            "Appreciation for incremental progress in completing treatment goals[13]."
+        ]
+    }
+]
